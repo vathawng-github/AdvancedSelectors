@@ -32,7 +32,7 @@ p:first-child {
 
 li[value = "big"] {
     margin: 2px;
-    font-size: 25px;
+    font-size: 24px;
 }
 
 p[value="white"] {
